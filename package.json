@@ -1,0 +1,14 @@
+{
+  "name": "alg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "binary": "bun alg/binary-search.ts",
+    "simple": "bun alg/simple-search.ts",
+    "quicksort": "bun alg/quicksort.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
